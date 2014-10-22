@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Sampath bank payment gateway ===
 Contributors: Oganro
 Donate link: 
 Tags: WooCommerce, Payment Gateway, Sampath , Sampath Bank , Sampath Bank Srilanka
