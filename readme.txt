@@ -12,7 +12,7 @@ WooCormace Sampath bank payment gateway. Make you'r online payments via Sampath 
 
 == Description ==
 
-If you looking for a online payment with Credit cars online payment ? this is it.it's easy to set up and you don't have to do anything.this plugin will handle every thing. 
+If you looking for a online payment with Credit card online payment ? this is it.it's easy to set up and you don't have to do anything.this plugin will handle every thing. 
 
 This plugin will bring you to by [www.Oganro.com](http://www.Oganro.com/).
 
