@@ -50,7 +50,7 @@ SSL certificate for the web hosting account (recommended but not a necessity)
 
 Provided below are the facets to be done for configuration of Sampath Bank online payment gateway plugin
 Visit WooCommerce > Settings > Checkout Tab
-Click on ‘SampathIPG*’ to edit the settings. If you do not see ‘SampathIPG’ in the list at the top of the screen, check whether you have activated the plugin via the WordPress Plugin Manager
+Click on "SampathIPG*" to edit the settings. If you do not see "SampathIPG" in the list at the top of the screen, check whether you have activated the plugin via the WordPress Plugin Manager
 Enable the Payment Method; name it Credit Card / Debit Card / Internet Banking (this will be displayed on the payment webpage your users will be viewing)
 Add in your Merchant ID, Instance ID and Hash Key as provided by the Sampath IPG Team
 Add Success redirect URL and Fail redirect URL (URL you want to redirect after payment)
@@ -60,8 +60,8 @@ Click Save
 == Screenshots ==
 
 1. All relevant account information details are set in the above shown panel. Merchant ID, Instance ID and Hash Keys are provided by Sampath Bank.
-2. Displayed above are the ‘Checkout Page’ payment options, inclusive of Sampath IPG, offered to users for selection.
-3. Featured above is the plugin page view containing the ‘Sampath Bank IPG’ option. Make sure to activate this option from the available plugin page.
+2. Displayed above are the "Checkout Page" payment options, inclusive of Sampath IPG, offered to users for selection.
+3. Featured above is the plugin page view containing the "Sampath Bank IPG" option. Make sure to activate this option from the available plugin page.
 
 == Changelog ==
 No reson changes
