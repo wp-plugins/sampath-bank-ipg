@@ -67,10 +67,10 @@ Click Save
 3. Featured above is the plugin page view containing the "Sampath Bank IPG" option. Make sure to activate this option from the available plugin page.
 
 == Changelog ==
-No reson changes
+No recent changes
 
 == Frequently Asked Questions ==
-No reson asked questions 
+No recent asked questions 
 
 == Upgrade Notice ==
-No reson asked updates
+No recent asked updates
