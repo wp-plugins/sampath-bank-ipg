@@ -13,8 +13,11 @@ WooCormace Sampath bank payment gateway. Make you'r online payments via Sampath 
 == Description ==
 
 This seamless and secure WooCommerce online payment gateway plugin will enable you to accept and process major debit and credit cards directly on your website with ease as well as empower your customers to purchase and do online transactions in a hassle-free manner. 
+
 This Sampath Bank payment gateway is the ideal method to turn your WooCommerce website into a hot selling machine by providing a pleasant and reliable online shopping experience. With this online payment gateway plugin, you are able to accept and process international credit cards and most currencies.
-Importantly, this Sri Lankan Bank’s payment gateway plugin is free to download and user-friendly to setup. It is as easy as a plug and play wordpress plugin could be. Also stop worrying about hackers, as with this solution, the entire online transaction process is fully secured in a unique way.
+
+Importantly, this Sri Lankan Bank's payment gateway plugin is free to download and user-friendly to setup. It is as easy as a plug and play wordpress plugin could be. Also stop worrying about hackers, as with this solution, the entire online transaction process is fully secured in a unique way.
+
 Sampath Bank online payment gateway system is one of the most sought-after by numerous leading merchants in the Sri Lanka market. One of the advantages for users is that they can do and complete the payment in the website itself without the need to be redirected to an external site. As one of the leading IT firms in the local industry, Oganro is proud to be partnered with Sampath Bank to develop and support this vital ecommerce solution.
 
 This plugin will bring you to by [www.Oganro.com](http://www.Oganro.com/).
