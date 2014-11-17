@@ -5,7 +5,7 @@ Plugin Name: Sampath Bank IPG
 Plugin URI: sampathipg.oganro.net
 Description: Sampath Bank Payment Gateway from Oganro (Pvt)Ltd.
 Version: 1.0
-Author: Oganro | Maleewa Jayaweera
+Author: Oganro
 Author URI: www.oganro.com
 */
 
