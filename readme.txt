@@ -44,7 +44,9 @@ Free and fast support service
 ==Requirements==
 
 Wordpress Site
+
 WooCommerce shopping cart plugin
+
 SSL certificate for the web hosting account (recommended but not a necessity)
 
 
@@ -52,18 +54,26 @@ SSL certificate for the web hosting account (recommended but not a necessity)
 
 1.Install Wordpress
 2.Ensure you have the latest version of WooCommerce plugin installed
+
 3.Unzip and upload contents of the plugin to your /wp-content/plugins/ directory
+
 4.Activate the plugin through the 'Plugins' menu available in WordPress
 
 
 == Configuration ==
 
 Provided below are the facets to be done for configuration of Sampath Bank online payment gateway plugin
+
 Visit WooCommerce > Settings > Checkout Tab
+
 Click on "SampathIPG*" to edit the settings. If you do not see "SampathIPG" in the list at the top of the screen, check whether you have activated the plugin via the WordPress Plugin Manager
+
 Enable the Payment Method; name it Credit Card / Debit Card / Internet Banking (this will be displayed on the payment webpage your users will be viewing)
+
 Add in your Merchant ID, Instance ID and Hash Key as provided by the Sampath IPG Team
+
 Add Success redirect URL and Fail redirect URL (URL you want to redirect after payment)
+
 Click Save
 
 
