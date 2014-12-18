@@ -25,12 +25,19 @@ This plugin brought to you by [www.Oganro.com](http://www.Oganro.com/).
 ==Features==
 
 Accept all major credit and debit cards
+
 Seamless incorporation into the WooCommerce checkout webpage
+
 Innovative Fraud preventing mechanism
+
 User-friendly admin interface
+
 Convenient payment process 
+
 Card data is stored in the most secure manner
+
 Funds are automatically deposited into your respective merchant bank account within 2 business days
+
 Free and fast support service
 
 
