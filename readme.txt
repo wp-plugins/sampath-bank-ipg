@@ -20,7 +20,7 @@ Importantly, this Sri Lankan Bank's payment gateway plugin is free to download a
 
 Sampath Bank online payment gateway system is one of the most sought-after by numerous leading merchants in the Sri Lanka market. One of the advantages for users is that they can do and complete the payment in the website itself without the need to be redirected to an external site. As one of the leading IT firms in the local industry, Oganro is proud to be partnered with Sampath Bank to develop and support this vital ecommerce solution.
 
-This plugin brought to you by [www.Oganro.com](http://www.Oganro.com/).
+This plugin is brought to you by [www.Oganro.com](http://www.Oganro.com/).
 
 ==Features==
 
