@@ -53,6 +53,7 @@ SSL certificate for the web hosting account (recommended but not a necessity)
 == Installation ==
 
 1.Install Wordpress
+
 2.Ensure you have the latest version of WooCommerce plugin installed
 
 3.Unzip and upload contents of the plugin to your /wp-content/plugins/ directory
