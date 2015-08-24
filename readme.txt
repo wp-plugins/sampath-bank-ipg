@@ -8,7 +8,7 @@ Stable tag: 1.3.7
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-WooCormace Sampath bank payment gateway. Make you'r online payments via Sampath bank.
+WooCommerce Sampath bank payment gateway. Make your online payments via Sampath bank.
 
 == Description ==
 
