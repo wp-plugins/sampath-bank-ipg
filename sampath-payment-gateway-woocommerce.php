@@ -145,7 +145,7 @@ function woocommerce_sampath_gateway(){
 		</style>';
     	echo '<h3>'.__('Sampath bank online payment gateway', 'ognro').'</h3>';
         echo '<p>'.__('<a target="_blank" href="http://www.oganro.com/">Oganro</a> is a fresh and dynamic web design and custom software development company with offices based in East London, Essex, Brisbane (Queensland, Australia) and in Colombo (Sri Lanka).').'</p>';
-        echo'<a href="http://www.oganro.com/support-tickets" target="_blank"><img src="/wp-content/plugins/sampath-bank-ipg/plug-inimg.jpg" alt="payment gateway" class="wpimage"/></a>';
+        //echo'<a href="http://www.oganro.com/support-tickets" target="_blank"><img src="/wp-content/plugins/sampath-bank-ipg/plug-inimg.jpg" alt="payment gateway" class="wpimage"/></a>';
         
         echo '<table class="form-table">';        
         $this->generate_settings_html();
